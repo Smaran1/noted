@@ -1,0 +1,5 @@
+hi
+
+steps:
+1) Git repo create
+2) clone select folder
